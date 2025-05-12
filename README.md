@@ -1,6 +1,6 @@
 # README
 
-##Automated Production Line System
+## Automated Production Line System
 Built a multi-state production line with a 3-DOF Cartesian robot.
 
 Designed mechanical parts in Autodesk Inventor; simulated forces using MATLAB
